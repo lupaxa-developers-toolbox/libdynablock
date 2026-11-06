@@ -3,7 +3,7 @@
 
 #include <stddef.h>
 
-#define DYNABLOCK_VERSION_STRING "0.0.0"
+#define DYNABLOCK_VERSION_STRING "0.1.0-rc1"
 
 /* DYNABLOCK_OK is success. DYNABLOCK_NOMEM means allocation failed and the
    pool was left unchanged. dynablock_create sets *pool to NULL on failure.
